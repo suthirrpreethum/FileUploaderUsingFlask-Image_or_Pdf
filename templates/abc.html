@@ -1,0 +1,10 @@
+<html>
+	<body>
+		{%for s in hist%}
+			{% set fileDirectory='/static/uploadedFiles/'+s %}
+			<a target="_blank" href={{fileDirectory}}>
+                                        <img src={{fileDirectory}} alt="Forest" width="600" height="400">
+                                </a>	
+		{% endfor %}
+	</body>
+</html>
