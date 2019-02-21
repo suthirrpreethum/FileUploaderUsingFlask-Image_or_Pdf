@@ -6,11 +6,14 @@ The Website will be helpful for uploading Image or Pdf:
   2. Provide thumbnail image of the uploaded file on the same page with properties button and delete button.
   3. Properties Include
     In case of image file:
+    
       ○ Creation date
       ○ Modification Date
       ○ File size and image resolution
       ○ Average mean of RGB
+  
     In case of pdf file:
+    
       ○ Creation date
       ○ Modification Date
       ○ File size & Paper size
